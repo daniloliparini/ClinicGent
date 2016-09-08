@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicGent.Dominio", "ClinicGent.Dominio\ClinicGent.Dominio.csproj", "{F17F3AA5-ADC9-4601-8895-F572EF9BABEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicGent.Teste", "ClinicGent.Teste\ClinicGent.Teste.csproj", "{93CEF140-680F-4DD7-AA69-6259C4B17E2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicGent.Infraestrutura.Repositorio.NHibernate", "ClinicGent.Infraestrutura.Repositorio.NHibernate\ClinicGent.Infraestrutura.Repositorio.NHibernate.csproj", "{1E6CA4FE-B5D4-4A55-A2CE-E92628780E45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicGent.Aplicacao.Facade", "ClinicGent.Aplicacao.Facade\ClinicGent.Aplicacao.Facade.csproj", "{8FBEE2C2-DE45-4EB2-BD71-194E14973B20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicGent.Aplicacao.DTO", "ClinicGent.Aplicacao.DTO\ClinicGent.Aplicacao.DTO.csproj", "{C57EB5B8-C731-4E1F-ABC2-7A675DF67E8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicGent.Aplicacao.Contrato", "ClinicGent.Aplicacao.Contrato\ClinicGent.Aplicacao.Contrato.csproj", "{8E8E7529-DDCC-43F3-B742-4696543E05D2}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ClinicGent.Aplicacao.Diagramas", "ClinicGent.Aplicacao.Diagramas\ClinicGent.Aplicacao.Diagramas.modelproj", "{FB0EBD55-66D2-4C94-B5EE-2DB452A041B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicGent.Aplicacao.Visao", "ClinicGent.Aplicacao.Visao\ClinicGent.Aplicacao.Visao.csproj", "{574ED475-6DE9-4025-8B6B-756CF0ABFCC3}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://soitic.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ClinicGent.Aplicacao.Contrato\\ClinicGent.Aplicacao.Contrato.csproj
+		SccProjectName1 = ClinicGent.Aplicacao.Contrato
+		SccLocalPath1 = ClinicGent.Aplicacao.Contrato
+		SccProjectUniqueName2 = ClinicGent.Aplicacao.Diagramas\\ClinicGent.Aplicacao.Diagramas.modelproj
+		SccProjectName2 = ClinicGent.Aplicacao.Diagramas
+		SccLocalPath2 = ClinicGent.Aplicacao.Diagramas
+		SccProjectUniqueName3 = ClinicGent.Aplicacao.DTO\\ClinicGent.Aplicacao.DTO.csproj
+		SccProjectName3 = ClinicGent.Aplicacao.DTO
+		SccLocalPath3 = ClinicGent.Aplicacao.DTO
+		SccProjectUniqueName4 = ClinicGent.Aplicacao.Facade\\ClinicGent.Aplicacao.Facade.csproj
+		SccProjectName4 = ClinicGent.Aplicacao.Facade
+		SccLocalPath4 = ClinicGent.Aplicacao.Facade
+		SccProjectUniqueName5 = ClinicGent.Aplicacao.Visao\\ClinicGent.Aplicacao.Visao.csproj
+		SccProjectName5 = ClinicGent.Aplicacao.Visao
+		SccLocalPath5 = ClinicGent.Aplicacao.Visao
+		SccProjectUniqueName6 = ClinicGent.Dominio\\ClinicGent.Dominio.csproj
+		SccProjectName6 = ClinicGent.Dominio
+		SccLocalPath6 = ClinicGent.Dominio
+		SccProjectUniqueName7 = ClinicGent.Infraestrutura.Repositorio.NHibernate\\ClinicGent.Infraestrutura.Repositorio.NHibernate.csproj
+		SccProjectName7 = ClinicGent.Infraestrutura.Repositorio.NHibernate
+		SccLocalPath7 = ClinicGent.Infraestrutura.Repositorio.NHibernate
+		SccProjectUniqueName8 = ClinicGent.Teste\\ClinicGent.Teste.csproj
+		SccProjectName8 = ClinicGent.Teste
+		SccLocalPath8 = ClinicGent.Teste
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F17F3AA5-ADC9-4601-8895-F572EF9BABEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17F3AA5-ADC9-4601-8895-F572EF9BABEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17F3AA5-ADC9-4601-8895-F572EF9BABEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17F3AA5-ADC9-4601-8895-F572EF9BABEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93CEF140-680F-4DD7-AA69-6259C4B17E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CEF140-680F-4DD7-AA69-6259C4B17E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CEF140-680F-4DD7-AA69-6259C4B17E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CEF140-680F-4DD7-AA69-6259C4B17E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E6CA4FE-B5D4-4A55-A2CE-E92628780E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6CA4FE-B5D4-4A55-A2CE-E92628780E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6CA4FE-B5D4-4A55-A2CE-E92628780E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6CA4FE-B5D4-4A55-A2CE-E92628780E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FBEE2C2-DE45-4EB2-BD71-194E14973B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBEE2C2-DE45-4EB2-BD71-194E14973B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBEE2C2-DE45-4EB2-BD71-194E14973B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBEE2C2-DE45-4EB2-BD71-194E14973B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C57EB5B8-C731-4E1F-ABC2-7A675DF67E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57EB5B8-C731-4E1F-ABC2-7A675DF67E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57EB5B8-C731-4E1F-ABC2-7A675DF67E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57EB5B8-C731-4E1F-ABC2-7A675DF67E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E8E7529-DDCC-43F3-B742-4696543E05D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8E7529-DDCC-43F3-B742-4696543E05D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8E7529-DDCC-43F3-B742-4696543E05D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8E7529-DDCC-43F3-B742-4696543E05D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0EBD55-66D2-4C94-B5EE-2DB452A041B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0EBD55-66D2-4C94-B5EE-2DB452A041B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0EBD55-66D2-4C94-B5EE-2DB452A041B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0EBD55-66D2-4C94-B5EE-2DB452A041B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{574ED475-6DE9-4025-8B6B-756CF0ABFCC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574ED475-6DE9-4025-8B6B-756CF0ABFCC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574ED475-6DE9-4025-8B6B-756CF0ABFCC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574ED475-6DE9-4025-8B6B-756CF0ABFCC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
